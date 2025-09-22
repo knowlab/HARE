@@ -1,4 +1,8 @@
 # HARE
+
+[**Paper to be released soon**]() | 
+[**🤗 Model and Dataset**](https://huggingface.co/collections/knowlab-research/ihc-llminer-67ebc27792449023e7123f2d) | 
+
 HARE is Histopathology Automated Report Evaluation. 
 
 It is a novel entity and relation centric framework, composed of a benchmark dataset, a named entity recognition (NER) model, a relation extraction (RE) model, and a novel metric, which prioritizes clinically relevant content by aligning critical histopathology entities and relations between reference and generated reports.
@@ -28,3 +32,10 @@ print(results)
 # Dataset
 The NER and RE dataset will be released shortly. Training script will be released together
 The histopathologist 600 reports annotation is released `human_evaluation_annotation.tsv'
+
+## Example for running HARE on 600 reports
+> Please refer to example.ipynb
+
+# Hardware
+The code was tested with A5000 GPU 24GB memory.
+
