@@ -1,7 +1,7 @@
 # HARE
 
 [**Paper to be released soon**]() | 
-[**🤗 Model and Dataset**](https://huggingface.co/collections/knowlab-research/ihc-llminer-67ebc27792449023e7123f2d) | 
+[**🤗 Model and Dataset**](https://huggingface.co/collections/knowlab-research/hare-68d145c54cdc98743baafe1c) | 
 
 HARE is Histopathology Automated Report Evaluation. 
 
