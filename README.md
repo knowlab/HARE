@@ -1,7 +1,6 @@
 # HARE
 
 [**Paper accepted at EMNLP2025**](https://arxiv.org/pdf/2509.16326) | 
->>>>>>> 44965b9 (added training script)
 [**🤗 Model and Dataset**](https://huggingface.co/collections/knowlab-research/hare-68d145c54cdc98743baafe1c) | 
 
 HARE is Histopathology Automated Report Evaluation. 
