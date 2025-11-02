@@ -1,8 +1,5 @@
 # HARE
 
-<<<<<<< HEAD
-[**Paper to be released soon**]() | 
-=======
 [**Paper accepted at EMNLP2025**](https://arxiv.org/pdf/2509.16326) | 
 >>>>>>> 44965b9 (added training script)
 [**🤗 Model and Dataset**](https://huggingface.co/collections/knowlab-research/hare-68d145c54cdc98743baafe1c) | 
@@ -43,7 +40,6 @@ The histopathologist 600 reports annotation is released `human_evaluation_annota
 # Hardware
 The code was tested with A5000 GPU 24GB memory.
 
-<<<<<<< HEAD
 =======
 ## Running NER training
 ```
@@ -69,4 +65,3 @@ CUDA_VISIBLE_DEVICES=1 python re_trainer.py \
     --model_name UFNLP/gatortronS \
     --output_dir ./gatortronS-RE
 ```
->>>>>>> 44965b9 (added training script)
